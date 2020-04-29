@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "my utils library",
+  "main": "index.js",
+  "author": "stephenwong1900@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "typescript": "^3.8.3"
+  }
+}
